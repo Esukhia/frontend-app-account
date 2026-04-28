@@ -1,3 +1,5 @@
+frontend-component-header/
+frontend-component-footer/
 .DS_Store
 .eslintcache
 .idea
@@ -18,3 +20,4 @@ temp/babel-plugin-react-intl
 /.vscode
 /module.config.js
 src/i18n/messages/
+
