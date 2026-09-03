@@ -18,9 +18,10 @@ export default class PageLoading extends Component {
     return (
       <div>
         <div
-          className="d-flex justify-content-center align-items-center flex-column"
+          className="d-flex align-items-center flex-column"
           style={{
-            height: '50vh',
+            minHeight: '100vh',
+            paddingTop: '20vh'
           }}
         >
           <div className="spinner-border text-primary" role="status">
